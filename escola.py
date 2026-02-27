@@ -10,4 +10,4 @@ def verificar_media(media:int|float) -> str:
 
 
 if __name__ == "__main__":
-    print(verificar_media(3))
+    print(verificar_media(4))
